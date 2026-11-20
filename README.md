@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadiq</h1>
-<h3 align="center">A future ml engineer from Azerbaijan</h3>
+<h3 align="center">A future ML engineer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **study notes**
+- 🔭 I’m currently working on **Pandas study notes and practice**
 
 - 🌱 I’m currently learning **Pandas**
 
